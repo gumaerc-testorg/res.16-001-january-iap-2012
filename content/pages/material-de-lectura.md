@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Material de lectura
 uid: ef18ac22-9c5e-626d-97e2-727ecab6ff99
 ---
@@ -88,7 +90,7 @@ ACTIVIDADES
 1–4
 {{< tdclose >}}
 {{< tdopen >}}
-[Visita a la Planta de New Balance® (PDF)]({{< baseurl >}}/resources/mitres_16_001iap12_1-4_vis)
+[Visita a la Planta de New Balance{{< sup "®" >}} (PDF)]({{< baseurl >}}/resources/mitres_16_001iap12_1-4_vis)
 {{< tdclose >}}
 {{< tdopen >}}
 [Apuntes Visita a la Planta New Balance® (PDF)]({{< baseurl >}}/resources/mitres_16_001iap12_1-4_not)

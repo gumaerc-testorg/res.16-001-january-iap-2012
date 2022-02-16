@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding session 1-1.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-16-001-lean-enterprise-en-espanol-january-iap-2012/3ccb6ed068d819fd1ce94bfaacefc7e7_MITRES_16_001IAP12_1-1_Why.pdf
+file: /media/courses/res-16-001-lean-enterprise-en-espanol-january-iap-2012/3ccb6ed068d819fd1ce94bfaacefc7e7_MITRES_16_001IAP12_1-1_Why.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Material de lectura
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: "Session 1-1 Notes: \xBFPor qu\xE9 estoy aqu\xED?"
 uid: 3ccb6ed0-68d8-19fd-1ce9-4bfaacefc7e7

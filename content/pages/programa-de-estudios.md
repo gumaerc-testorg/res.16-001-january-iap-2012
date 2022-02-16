@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Programa de estudios
 uid: 934ff009-8481-d03d-305e-df4047cac9b7
 ---
@@ -83,7 +85,7 @@ Pensamiento Lean II
 1–4
 {{< tdclose >}}
 {{< tdopen >}}
-Visita a la Planta de New Balance®
+Visita a la Planta de New Balance{{< sup "{{< sub \"®\" >}}" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
