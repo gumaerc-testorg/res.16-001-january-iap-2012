@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Material de lectura
 parent_type: SupplementalResourceSection
+parent_uid: ef18ac22-9c5e-626d-97e2-727ecab6ff99
 resourcetype: Document
 title: 'Session 2-6 Notes: Current estado mapa de flujo de valor'
 uid: cee94520-db82-1666-58e3-fba169891952

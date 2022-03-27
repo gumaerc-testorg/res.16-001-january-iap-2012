@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Material de lectura
 parent_type: SupplementalResourceSection
+parent_uid: ef18ac22-9c5e-626d-97e2-727ecab6ff99
 resourcetype: Document
 title: "Session 3-6 Notes: Seis Sigma conceptos b\xE1sicos"
 uid: ffb76c74-891c-2e62-0571-dea032860fe2

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Material de lectura
 parent_type: SupplementalResourceSection
+parent_uid: ef18ac22-9c5e-626d-97e2-727ecab6ff99
 resourcetype: Document
 title: LAI magra Academia Glosario
 uid: 98b99bc1-f738-e6fe-c0f7-45be2d03667f

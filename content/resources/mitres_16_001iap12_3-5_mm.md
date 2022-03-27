@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Material de lectura
 parent_type: SupplementalResourceSection
+parent_uid: ef18ac22-9c5e-626d-97e2-727ecab6ff99
 resourcetype: Document
 title: 'Session 3-5 Notes: Hoja de ejercicio M & M'
 uid: 923f08b5-61c1-1f1f-1d5c-9e37944620d0

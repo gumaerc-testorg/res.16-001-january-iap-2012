@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Material de lectura
 parent_type: SupplementalResourceSection
+parent_uid: ef18ac22-9c5e-626d-97e2-727ecab6ff99
 resourcetype: Document
 title: 'Session 1-4 Notes: Notas de viaje de Plantas'
 uid: 4b37f32e-47c1-4eb2-be2a-684de3bf539b

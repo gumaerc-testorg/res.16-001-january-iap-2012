@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Material de lectura
 parent_type: SupplementalResourceSection
+parent_uid: ef18ac22-9c5e-626d-97e2-727ecab6ff99
 resourcetype: Document
 title: 'Session 1-3 Notes: Sasha & Andy Hot Dogs Ejercicio de tiempo'
 uid: 8857ecf0-49a1-301b-46e6-17c83d296651

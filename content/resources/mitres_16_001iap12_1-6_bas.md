@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Material de lectura
 parent_type: SupplementalResourceSection
+parent_uid: ef18ac22-9c5e-626d-97e2-727ecab6ff99
 resourcetype: Document
 title: 'Session 1-6 Notes: Bases del Mapa del Flujo de Valor'
 uid: e3b01aec-83f4-9f5a-74ff-f4204d54351d

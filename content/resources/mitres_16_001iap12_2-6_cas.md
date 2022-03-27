@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Material de lectura
 parent_type: SupplementalResourceSection
+parent_uid: ef18ac22-9c5e-626d-97e2-727ecab6ff99
 resourcetype: Document
 title: 'Session 2-6 Notes: Estudio de caso: Las cuentas por pagar a Rockwell Collins'
 uid: 42ac1cdd-e648-d776-6a4d-e11a8837a52f

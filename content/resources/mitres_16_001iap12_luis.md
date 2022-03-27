@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Programa de estudios
 parent_type: SupplementalResourceSection
+parent_uid: 934ff009-8481-d03d-305e-df4047cac9b7
 resourcetype: Document
 title: "Luis Alarc\xF3n Biography"
 uid: 548102de-84ff-dbdd-b1f3-af9b0251d325

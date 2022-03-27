@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Material de lectura
 parent_type: SupplementalResourceSection
+parent_uid: ef18ac22-9c5e-626d-97e2-727ecab6ff99
 resourcetype: Document
 title: "Session 1-5 Notes: Las Personas: El Coraz\xF3n de Lean"
 uid: 557bf40b-e5f6-e12b-b72f-b55e0b53404a

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Material de lectura
 parent_type: SupplementalResourceSection
+parent_uid: ef18ac22-9c5e-626d-97e2-727ecab6ff99
 resourcetype: Document
 title: 'Session 2-2 Notes: Bases de la Cadena de Abastecimiento Lean'
 uid: 51e9016b-c91c-2a02-3b36-035328f11e48

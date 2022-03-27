@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Programa de estudios
 parent_type: SupplementalResourceSection
+parent_uid: 934ff009-8481-d03d-305e-df4047cac9b7
 resourcetype: Document
 title: "Isabel Alarc\xF3n Biography"
 uid: 4dc6f75c-84d4-9eae-d20e-cff32b8bbe07

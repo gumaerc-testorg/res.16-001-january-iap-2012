@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Ses. 1-4, parte 3 Visita a la planta New Balance\xAE"
 uid: f2c6c08d-6399-5372-7f14-519e862c3d99
 video_files:

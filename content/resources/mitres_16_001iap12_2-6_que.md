@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Material de lectura
 parent_type: SupplementalResourceSection
+parent_uid: ef18ac22-9c5e-626d-97e2-727ecab6ff99
 resourcetype: Document
 title: 'Session 2-6 Notes: Cuentas por pagar a las preguntas de Rockwell Collins'
 uid: 5eec96d0-5494-038c-9b49-74d136f94509

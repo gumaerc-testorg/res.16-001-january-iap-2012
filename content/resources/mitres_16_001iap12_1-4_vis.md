@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Material de lectura
 parent_type: SupplementalResourceSection
+parent_uid: ef18ac22-9c5e-626d-97e2-727ecab6ff99
 resourcetype: Document
 title: "Session 1-4 Notes: Visita a la Planta de New Balance\xAE"
 uid: 2d868d5f-65a8-ff23-619c-3b84ca52ea50
