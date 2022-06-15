@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: "Esta secci\xF3n contiene dos videos de charlas para el curso con subt\xED\
+  tulos en espa\xF1ol."
 is_media_gallery: true
 learning_resource_types:
 - Videos
@@ -15,7 +17,7 @@ videos:
   website: res-16-001-lean-enterprise-en-espanol-january-iap-2012
 ---
 
-Los videos de Visita a Planta New Balance{{< sup "®" >}} son parte del curso desde 2008 ; el video de Lean Transformation Rockwell Collins fue grabado en 2006. Otros videos de este curso están disponibles en Inglés en [16.660J Introduction to Lean Six Sigma Methods](/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/pages/lecture-videos).
+Los videos de Visita a Planta New Balance{{< sup "®" >}} son parte del curso desde 2008 ; el video de Lean Transformation Rockwell Collins fue grabado en 2006. Otros videos de este curso están disponibles en Inglés en [16.660J Introduction to Lean Six Sigma Methods](/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/video_galleries/lecture-videos).
 
 {{< video-gallery "f17ec699-d546-15f6-66bc-355732f6cd90" >}}
 
@@ -31,9 +33,9 @@ Ses. 3-7, Lean Transformation Rockwell Collins Part 1
 
 ### Material de lectura
 
-[Video de Clay Jones (PDF)]({{< baseurl >}}/resources/mitres_16_001iap12_3-7_cly)
+{{% resource_link 7ba64e5a-96a1-e6f9-00bc-98963e5deda7 "Video de Clay Jones (PDF)" %}}
 
-[Notas de vídeo de transformación Lean (PDF)]({{< baseurl >}}/resources/mitres_16_001iap12_3-7_vid)
+{{% resource_link eaa85ede-750a-e4f9-f37b-f5047eab95af "Notas de vídeo de transformación Lean (PDF)" %}}
 
 Ses. 3-7, Lean Transformation Rockwell Collins Part 2
 -----------------------------------------------------
@@ -46,9 +48,9 @@ Ses. 3-7, Lean Transformation Rockwell Collins Part 2
 
 ### Material de lectura
 
-[Video de Clay Jones (PDF)]({{< baseurl >}}/resources/mitres_16_001iap12_3-7_cly)
+{{% resource_link 7ba64e5a-96a1-e6f9-00bc-98963e5deda7 "Video de Clay Jones (PDF)" %}}
 
-[Notas de vídeo de transformación Lean (PDF)]({{< baseurl >}}/resources/mitres_16_001iap12_3-7_vid)
+{{% resource_link eaa85ede-750a-e4f9-f37b-f5047eab95af "Notas de vídeo de transformación Lean (PDF)" %}}
 
 Ses. 3-7, Lean Transformation Rockwell Collins Part 3
 -----------------------------------------------------
@@ -63,6 +65,6 @@ Ses. 3-7, Lean Transformation Rockwell Collins Part 3
 
 ### Material de lectura
 
-[Video de Clay Jones (PDF)]({{< baseurl >}}/resources/mitres_16_001iap12_3-7_cly)
+{{% resource_link 7ba64e5a-96a1-e6f9-00bc-98963e5deda7 "Video de Clay Jones (PDF)" %}}
 
-[Notas de vídeo de transformación Lean (PDF)]({{< baseurl >}}/resources/mitres_16_001iap12_3-7_vid)
+{{% resource_link eaa85ede-750a-e4f9-f37b-f5047eab95af "Notas de vídeo de transformación Lean (PDF)" %}}

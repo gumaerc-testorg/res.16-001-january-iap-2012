@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Videos
+ocw_type: ''
 optional_tab_title: Material de lectura
-optional_text: "[Visita a la Planta de New Balance\xAE (PDF)](resources/mitres_16_001iap12_1-4_vis)"
+optional_text: "[Visita a la Planta de New Balance\xAE (PDF)](/courses/res-16-001-lean-enterprise-en-espanol-january-iap-2012/resources/mitres_16_001iap12_1-4_vis)"
 parent_title: Videos
 parent_type: SupplementalResourceSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Descripción:** New Balance{{< sup "®" >}} visita a la planta, parte 2
 
 **Instructores:** Profesor Earll Murman, Dr. Hugh McManus, Profesor Luis Alarcón, Isabel Alarcón (facilitador principal)
+
+
+

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: "Esta secci\xF3n incluye una descripci\xF3n general del curso y su horario."
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Programa de estudios
@@ -20,10 +21,10 @@ Este curso cubre los principios fundamentales, prácticas y herramientas de una 
 El plan de estudios corresponde a 24 horas, repartidas en 3 días. Las casi 600 diapositivas, los videos y algunos de los ejercicios presentados a los estudiantes, se encuentran disponibles en el MIT OpenCourseWare. El cincuenta por ciento de las horas presenciales contemple ejercicios prácticos y simulaciones, la mayoría de los cuales no están disponibles en OCW. El material de estudio completo está disponible para su compra en la Red Educativa LAI. Otros materiales de apoyo, incluyendo LEV Simulation también están disponibles para su compra. El curso fue desarrollado originalmente para un público aeroespacial a nivel de pregrado avanzado. Durante más de 10 años, se ha ido perfeccionando y entregado a más de 1.600 estudiantes a través de programas de postgrado profesionales, y para profesionales de una amplia gama de industrias. No se requiere ningún conocimiento previo para el curso. Para aquellos interesados en tomar el curso completo, incluyendo todos los ejercicios de aprendizaje activo, están disponibles en Inglés a través de [MIT Professional Education](http://web.mit.edu/professional/).  
 Biografías de los instructores del curso y facilitadores pueden encontrar a continuación:
 
-*   [Profesor Earll Murman (PDF)]({{< baseurl >}}/resources/mitres_16_001iap12_earll)
-*   [Dr. Hugh McManus (PDF)]({{< baseurl >}}/resources/mitres_16_001iap12_hugh)
-*   [Profesor Luis Alarcón (PDF)]({{< baseurl >}}/resources/mitres_16_001iap12_luis)
-*   [Facilitador principal Isabel Alarcón (PDF)]({{< baseurl >}}/resources/mitres_16_001iap12_isabel)
+*   {{% resource_link 614bc4de-752d-e5c0-0bf4-146d8fc98981 "Profesor Earll Murman (PDF)" %}}
+*   {{% resource_link 0e04e23f-8122-cfe3-fe02-0733f49a6bb2 "Dr. Hugh McManus (PDF)" %}}
+*   {{% resource_link 548102de-84ff-dbdd-b1f3-af9b0251d325 "Profesor Luis Alarcón (PDF)" %}}
+*   {{% resource_link 4dc6f75c-84d4-9eae-d20e-cff32b8bbe07 "Facilitador principal Isabel Alarcón (PDF)" %}}
 
 Temas por sesión
 ----------------
