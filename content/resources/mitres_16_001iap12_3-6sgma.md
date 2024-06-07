@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-16-001-lean-enterprise-en-espanol-january-iap-2012/ffb76c74891c2e620571dea032860fe2_MITRES_16_001IAP12_3-6Sgma.pdf
+file_size: 1315872
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

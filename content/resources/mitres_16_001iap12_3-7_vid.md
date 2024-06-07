@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding session 3-7.
 file: /courses/res-16-001-lean-enterprise-en-espanol-january-iap-2012/eaa85ede750ae4f9f37bf5047eab95af_MITRES_16_001IAP12_3-7_Vid.pdf
+file_size: 567901
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
