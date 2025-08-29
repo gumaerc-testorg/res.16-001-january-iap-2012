@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding session 1-3.
-file: /courses/res-16-001-lean-enterprise-en-espanol-january-iap-2012/8857ecf049a1301b46e617c83d296651_MITRES_16_001IAP12_1-3_Hot.pdf
+file: /ol-ocw-studio-app/courses/res-16-001-lean-enterprise-en-espanol-january-iap-2012/8857ecf049a1301b46e617c83d296651_MITRES_16_001IAP12_1-3_Hot.pdf
 file_size: 127275
 file_type: application/pdf
 learning_resource_types: []
