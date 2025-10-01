@@ -29,7 +29,7 @@ Ses. 3-7, Lean Transformation Rockwell Collins Part 1
 
 **Instructores:** Clayton Jones, presidente y CEO de Rockwell Collins.
 
-(Este video es de [MIT Libraries](http://libraries.mit.edu/) en MIT TechTV y no está previsto en nuestra [licencia Creative Commons](/terms/).)
+(Este video es de {{% resource_link "3fcf5065-1124-4c68-99fe-851e6d9bff86" "MIT Libraries" %}} en MIT TechTV y no está previsto en nuestra [licencia Creative Commons](/terms/).)
 
 ### Material de lectura
 
@@ -44,7 +44,7 @@ Ses. 3-7, Lean Transformation Rockwell Collins Part 2
 
 **Instructores:** Clayton Jones, presidente y CEO de Rockwell Collins.
 
-(Este video es de [MIT Libraries](http://libraries.mit.edu/) en MIT TechTV y no está previsto en nuestra [licencia Creative Commons](/terms/).)
+(Este video es de {{% resource_link "3fcf5065-1124-4c68-99fe-851e6d9bff86" "MIT Libraries" %}} en MIT TechTV y no está previsto en nuestra [licencia Creative Commons](/terms/).)
 
 ### Material de lectura
 
@@ -61,7 +61,7 @@ Ses. 3-7, Lean Transformation Rockwell Collins Part 3
 
 **Instructores:** Clayton Jones, presidente y CEO de Rockwell Collins.
 
-(Este video es de [MIT Libraries](http://libraries.mit.edu/) en MIT TechTV y no está previsto en nuestra [licencia Creative Commons](/terms/).)
+(Este video es de {{% resource_link "3fcf5065-1124-4c68-99fe-851e6d9bff86" "MIT Libraries" %}} en MIT TechTV y no está previsto en nuestra [licencia Creative Commons](/terms/).)
 
 ### Material de lectura
 
